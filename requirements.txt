@@ -1,4 +1,1 @@
 python-telegram-bot==20.7
-openai>=1.0.0
-httpx>=0.24.0
-Pillow>=10.0.0
